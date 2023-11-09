@@ -1,10 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The asteroid-lookup springboot app should be up and running at 8080 port to get the data in the online app.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install node modules
 
 ### `npm start`
 
